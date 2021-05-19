@@ -1,10 +1,14 @@
-💻 Atualizado em 18 de Maio de 2021 💻
+💻 Atualizado em 19 de Maio de 2021 💻
 
 # Projeto Origamid - CSS Avançado Posicionamento (BRAFÉ - 1)
 
 ## Objetivo
 
 Curso focado em ensinar na prática como criar um site responsivo do zero, utilizando quatro formas diferentes de CSS.
+
+### Brafé 2
+
+Segundo layout criado para o mesmo site: https://github.com/gabrielcoelhox/Brafe-2
 
 ## Grade do curso
 
